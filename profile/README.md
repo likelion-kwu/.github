@@ -46,19 +46,19 @@
 
 | 강선후 | 신재민 |
 | :---: | :---: |
-| <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> | <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> |
+| <img src="https://avatars.githubusercontent.com/u/104255115?v=4" width="120" height="120"> | <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> |
 
 ### 🎨 프론트엔드
 
 | 고은빈 | 박현지 | 황지영 |
 | :---: | :---: | :---: |
-| <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> | <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> | <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> |
+| <img src="https://avatars.githubusercontent.com/u/176227656?v=4" width="120" height="120"> | <img src="https://avatars.githubusercontent.com/u/166683989?v=4" width="120" height="120"> | <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> |
 
 ### 🖥️ 백엔드
 
 | 이지섭 | 엄태성 | 이효원 |
 | :---: | :---: | :---: |
-| <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> | <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> | <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> |
+| <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> | <img src="https://avatars.githubusercontent.com/u/70329288?v=4" width="120" height="120"> | <img src="https://avatars.githubusercontent.com/u/57023119?v=4" width="120" height="120"> |
 
 ### 🎯 기획/디자인
 
