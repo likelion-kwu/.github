@@ -46,22 +46,22 @@
 
 | 강선후 | 신재민 |
 | :---: | :---: |
-| <img src="" width="120" height="120"> | <img src="" width="120" height="120"> |
+| <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> | <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> |
 
 ### 🎨 프론트엔드
 
 | 고은빈 | 박현지 | 황지영 |
 | :---: | :---: | :---: |
-| <img src="" width="120" height="120"> | <img src="" width="120" height="120"> | <img src="" width="120" height="120"> |
+| <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> | <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> | <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> |
 
 ### 🖥️ 백엔드
 
 | 이지섭 | 엄태성 | 이효원 |
 | :---: | :---: | :---: |
-| <img src="" width="120" height="120"> | <img src="" width="120" height="120"> | <img src="" width="120" height="120"> |
+| <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> | <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> | <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> |
 
 ### 🎯 기획/디자인
 
 | 이아란 |
 | :---: |
-| <img src="" width="120" height="120"> |
+| <img src="https://github.com/likelion-kwu/.github/blob/main/kwu-logo.png" width="120" height="120"> |
